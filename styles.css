@@ -47,7 +47,7 @@ box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.12);
 #logo, #toplogo {display:none;}
 
 #login-form .box-inner {
-    background:#666 url("/skins/siawx/images/logo-medium-siawx.png") no-repeat scroll center 14px;
+    background:#666 url("/email/skins/siawx/images/siawx.png") no-repeat scroll center 14px;
     border: 0px solid #333;
     border-radius: 0px;
     box-shadow: none;
@@ -90,7 +90,7 @@ box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.12);
 
 
 .minimal #topline {
-    background-color: #d14836;
+    background-color: #FFA500;
 }
 
 .minimal #taskbar .button-inner {
@@ -104,10 +104,8 @@ box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.12);
 #topnav {
     background: #000000 none repeat scroll 0 0;
     box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.26);
-    background-image: url("images/logo-siawx.png");
-    background-position: 0.5% center;
+    background-image: url("/email/skins/siawx/images/siawx.png");
     background-repeat: no-repeat;
-   background-size: 36px auto;
 }
 
 #mainscreen {
@@ -186,7 +184,7 @@ color:#fff;
 
 #taskbar {
     float: none;
-    padding-left: 60px;
+    padding-left: 180px;
     padding-right: 18px;
     padding-top: 14px;
     position: relative;
@@ -295,8 +293,8 @@ input[type="text"], input[type="password"], textarea, select {
 }
 
 .listbox .listitem.selected, .listbox .tablink.selected, .listbox .listitem.selected > a, .listbox .tablink.selected > a, .listing tbody tr.selected td, .listing li.selected, .listing li.selected > a {
-    background-color: #d14836;
-    background-image: -moz-linear-gradient(center top , #dd4b39, #d14836);
+    background-color: #FFA500;
+    background-image: -moz-linear-gradient(center top , #dd4b39, #FFA500);
     color: #fff;
     font-weight: bold;
 }
@@ -470,7 +468,7 @@ input.button.mainaction:hover {
 .minimal #taskbar a,
 #taskbar a {
     display: inline-block;
-   color: #FFB1AF;
+   color: #FFA500;
    display: inline-block;
     height: 26px;
     padding: 0 6px 6px;
@@ -484,8 +482,8 @@ input.button.mainaction:hover {
 
 .toolbar a.button:focus {
     border-radius: 0;
-    background-color: #d14836;
-    background-image: -moz-linear-gradient(center top , #dd4b39, #d14836);
+    background-color: #FFA500;
+    background-image: -moz-linear-gradient(center top , #dd4b39, #FFA500);
     text-shadow: none;
 
 }
