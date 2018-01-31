@@ -1,7 +1,7 @@
 {
 	"extends": "larry",
 	"name": "SIA WX - Material, bootstrap and Larry skin",
-	"author": "Gregory Tewksbury, Cincinnati, OH, USA",
+	"author": "Gregory Tewksbury, Cincinnati OH",
 	"license": "GNU General Public License",
 	"license-url": "http://www.gnu.org/licenses/gpl.html",
 	"version": "0.0.2"
