@@ -47,7 +47,7 @@ box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.12);
 #logo, #toplogo {display:none;}
 
 #login-form .box-inner {
-    background:#666 url("/skins/mabola/images/logo-medium-mabola.png") no-repeat scroll center 14px;
+    background:#666 url("/skins/SIAwx/images/logo-medium-siawx.png") no-repeat scroll center 14px;
     border: 0px solid #333;
     border-radius: 0px;
     box-shadow: none;
@@ -104,7 +104,7 @@ box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.12);
 #topnav {
     background: #000000 none repeat scroll 0 0;
     box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.26);
-    background-image: url("images/logo-mabola.png");
+    background-image: url("images/logo-SIAwx.png");
     background-position: 0.5% center;
     background-repeat: no-repeat;
    background-size: 36px auto;
